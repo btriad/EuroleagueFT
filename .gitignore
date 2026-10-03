@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+euroleague_ft.db
+.claude/settings.local.json
